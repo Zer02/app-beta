@@ -1,5 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>TennisMatch.US Beta</h1>
+    <h2>Register for updates</h2>
   </div>
 </template>
